@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EMI_Calculator</string>
+    <string name="mortgage_payment_calculator">Mortgage Payment Calculator</string>
+    <string name="mortgage_principal_amount">Mortgage Principal Amount</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="interest_rate">Interest rate</string>
+    <string name="amount">% amount</string>
+    <string name="amortization_period">Amortization Period</string>
+    <string name="months">Months</string>
+    <string name="year">Year</string>
+    <string name="_0">0</string>
+    <string name="_0month">0</string>
+    <string name="calculate_my_payments">Calculate my payments</string>
+    <string name="my_payment_results">My Payment Results</string>
+    <string name="payment_results">Payment Results</string>
+    <string name="my_paymentResults">My Payment Results</string>
+    <string name="mortgage_amount">"Mortgage amount "</string>
+    <string name="interest_rate_payable">Interest Rate</string>
+    <string name="amortization_period_calc">Amortization period</string>
+    <string name="total_term_payments">Total term payments</string>
+</resources>
